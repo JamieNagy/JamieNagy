@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JamieNagy
+- 👀 I’m passionate about Data Science, Machine Learning, and AI.
+- Learn more about me at https://jamienagy.github.io
